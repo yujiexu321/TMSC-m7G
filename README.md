@@ -2,8 +2,11 @@
 A transformer architecture based on multi-sense-scaled embedding features and convolutional neural network to identify RNA N7-methylguanosine sites
 ## Requirements
 • python==3.7.0
+
 • torch==1.8.2
+
 • numpy==1.21.5
+
 • pandas==1.2.4
 ## Usage
 1. Parameter configuration
